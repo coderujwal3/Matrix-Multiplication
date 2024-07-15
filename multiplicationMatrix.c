@@ -68,7 +68,7 @@ void main()
             printf("\n\n");
         }
 
-                                    // Printing matrix A
+                                    // Printing matrix B
         printf("\nMatrix B is -> \n");
 
         for(i =0; i<r2; i++) 
